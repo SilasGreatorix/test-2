@@ -1,0 +1,22 @@
+<html>
+
+<head>
+	<title>Hello This is my work</title>
+	<link type= "text/css" rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+	<div id="container">
+	
+	<div id="MainArea">
+		
+		<h1> stlye="text-align:center" > This is my profile!</h1>
+		<p> stlye-align:center">
+		This is a website about me!!!
+		</p>
+		
+	</div>
+	
+	</div>
